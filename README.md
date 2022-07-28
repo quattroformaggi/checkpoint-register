@@ -1,26 +1,26 @@
 # checkpoint-register
-## 17:12 07.08.2020
-телефонный справочник
-- телефон / фио / комментарий /
-поддержка вывода в файл
-- добавить, удалить, поиск,
-телефон любой страны........
+## 17:12 08/07/2020
+phonebook
+- phone / name / comment /
+file output support
+- add, remove, search,
+phone number of any country
 -------------------------------
-<128 букв таблицы ASCII
-ссылки на файл картинку 800х600 640х480 1Kx1K.vga
+<128 ASCII table letters
+links to the image file 800x600 640x480 1Kx1K.vga
 `do{}while{input != "exit"}`
 
-**Цель:**
-организатор // телефонный справочник // программа КПП
-добавить удалить найти
-ввод: баркод
-вывод: фио №отдела + фотография
-при наличии файла с контрольными суммами подгрузить + показать на кэран
+**Target:**
+organizer // telephone directory // checkpoint program
+add remove find
+input: barcode
+output: full name department number + photo
+if there is a file with checksums, upload + show on screen
 
-- [x] добавить 
-- [x] удалить
-- [x] поиск
-- [ ] картинки <-> ???
+- [x] add
+- [x] delete
+- [x] search
+- [ ] pictures <-> ???
 -------------------------------
-Installation:
+installation:
 1. Compile & Run
